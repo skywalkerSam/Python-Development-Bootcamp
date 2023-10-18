@@ -32,7 +32,7 @@ a = 1  # - Global Scope
 
 
 # 1
-def confusion():  # - It has it's own universe
+def confusion():  # - It has it's own little universe lol ;)
     a = 5
     return a
 
